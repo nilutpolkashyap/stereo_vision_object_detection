@@ -23,5 +23,5 @@ ENDMACRO()
 
 # COMPILE CPP FILES USING THIS LINE
 ######## EDIT THE FILE NAMES ########
-add_example(alpha_bending)
+add_example(stereo_calibration)
 #add_example(sampleCode2) and so on
